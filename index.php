@@ -13,6 +13,7 @@
             // Includi l'header nella pagina
             include 'utils/header.php'
 
+	    echo "Sono certo che possa funzionare"
         ?>
         Ciao
     </body>
